@@ -10,7 +10,7 @@
 ## Languages and tools 🔧
 <div align="center">
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
-![SQLite](https://img.shields.io/badge/sqlite-0b0038?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://github.com/moseevaevgeniya/moseevaevgeniya/blob/966ea82fa10b4ec2187746140ea77b20bc57a44b/icons8-postgresql-48.png)
 ![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=%white)
 ![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
