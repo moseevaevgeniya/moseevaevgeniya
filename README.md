@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](https://github.com/moseevaevgeniya/moseevaevgeniya/blob/aa3fe8acd0f7fc188236a43d350811abeb6e1d5b/github-header-image.png)
 ### Hi there 👋
 
 <!--
