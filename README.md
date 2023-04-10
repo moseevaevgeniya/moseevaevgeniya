@@ -31,7 +31,7 @@
 ![DataLens](https://img.shields.io/badge/DataLens-F2C811?style=for-the-badge&logo=DataLens&logoColor=black)
 </div>
 
-### Контакты: 👀  
+### Контакты 👀  
 
 <div id="header" align="center">
   
