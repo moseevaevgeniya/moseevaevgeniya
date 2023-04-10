@@ -1,31 +1,52 @@
 ![Header](https://github.com/moseevaevgeniya/moseevaevgeniya/blob/d0c2f42bdba3dd75495a1b39e2c165861f4b12f0/github-header-image.png)
 
-### Я Junior Data Analyst, Product Analyst и BI-Analyst.
+### Я Junior Data Analyst, Product Analyst и BI-Analyst.  
+
+
 Ранее я занималась анализом данных в рамках экономики и финансов предприятия. Люблю экспериментировать с новыми технологиями и строить небольшие проекты.
+
 - 💻 Занимаюсь проектной работой
 - 👯 Готова к сотрудничеству
 - ☀️ Участвую в хакатонах по аналитике данных
 - ✍️ Лучшие проекты в pin
 
-## Languages and tools 🔧
+### Языки и инструменты 🔧  
+
+
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
-![PostgreSQL](https://github.com/moseevaevgeniya/moseevaevgeniya/blob/966ea82fa10b4ec2187746140ea77b20bc57a44b/icons8-postgresql-48.png)
 ![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-0b0038?style=for-the-badge&logo=scipy&logoColor=%white)
 ![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
-![Linux](https://img.shields.io/badge/Linux-0b0038?style=for-the-badge&logo=linux&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-0b0038?style=for-the-badge&logo=Apache%20Superset&logoColor=e4351d)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=ClickHouse&logoColor=4c74cc)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Tableau&logoColor=black)
+![DataLens](https://img.shields.io/badge/DataLens-F2C811?style=for-the-badge&logo=DataLens&logoColor=black)
 </div>
-## Follow me 👀
+
+### Контакты: 👀  
+
+
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriysavelko/)
-[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ditengm)
-[![Instagram](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=Instagram&logoColor=#ab46e3)](https://www.instagram.com/ditengm/)
-[![Vkontakte](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/dsvlko)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?pli=1#inbox)
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/евгения-мосеева)
+[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgeniyaMoseeva)
+  
 </div>
+
+---
+
+### :fire: Моя статистика:
+
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ditengm&theme=midnight-purple&show_icons=true)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moseevaevgeniya&theme=midnight-purple&show_icons=true)
+  
 </div>
