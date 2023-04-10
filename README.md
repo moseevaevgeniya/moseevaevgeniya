@@ -36,7 +36,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/евгения-мосеева)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/евгения-мосеева-066241a4/)
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgeniyaMoseeva)
   
 </div>
