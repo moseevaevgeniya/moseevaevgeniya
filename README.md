@@ -10,6 +10,8 @@
 - ☀️ Участвую в хакатонах по аналитике данных
 - ✍️ Лучшие проекты в pin
 
+---
+
 ### Языки и инструменты 🔧  
 
 
@@ -23,13 +25,15 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-0b0038?style=for-the-badge&logo=Apache%20Superset&logoColor=e4351d)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-0b0038?style=for-the-badge&logo=Apache%20Superset&logoColor=4c74cc)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-0b0038?style=for-the-badge&logo=ClickHouse&logoColor=4c74cc)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=Tableau&logoColor=black)
-![DataLens](https://img.shields.io/badge/DataLens-F2C811?style=for-the-badge&logo=DataLens&logoColor=black)
+![DataLens](https://img.shields.io/badge/datalens-F2C811?style=for-the-badge&logo=datalens&logoColor=black)
 </div>
+
+---
 
 ### Контакты 👀  
 
