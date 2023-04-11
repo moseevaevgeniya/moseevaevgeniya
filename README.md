@@ -61,3 +61,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moseevaevgeniya&theme=midnight-purple&show_icons=true)
   
 </div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moseevaevgeniya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
