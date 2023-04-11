@@ -67,3 +67,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moseevaevgeniya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+ Last Updated on 11/04/2023 00:40:39 UTC
+<!--END_SECTION:waka-->
+---
+
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+
+<!--
